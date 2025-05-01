@@ -8,6 +8,12 @@ Olá, sou Mariana Medeiros Santos, uma estudante de Sistemas de Informação na 
 
 * Atualmente estudo Sistemas de Informação na Universidade de São Paulo 
 * Meus interesses incluem trabalhar com programação backend.
+## Hard skills
+* Java
+* MySql
+* ReactNative
+* Git
+* GitHub
 
 ## Projetos
 * [https://github.com/MariMedeirus/demo-dao-jdbc]
