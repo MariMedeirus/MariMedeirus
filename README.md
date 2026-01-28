@@ -26,7 +26,6 @@ Olá, sou Mariana Medeiros Santos, uma estudante de Sistemas de Informação na 
 ## Contato
 
 * LinkedIn: [https://www.linkedin.com/in/mariana-medeiros-1368b7342/]
-* Instagram: [https://www.instagram.com/marimedeirus?utm_source=gr&igsh=MWE2M2ZkbzM4a2wwcg==]
 * Email: [mariana_medeiros.santos@outlook.com]
 
 ## Como contribuir 
